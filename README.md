@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="https://goentity.github.io/auto_git_push_for_my_blog/">1. some love</a> <br>
-    <a href="https://goentity.github.io/GoEntity_Github/">2. my public repositories</a>
+    <a href="https://goentity.github.io/auto_git_push_for_my_blog/">do not click this</a> <br>
+    <a href="https://goentity.github.io/GoEntity_Github/">this one as well. do not click</a>
 </div>
 
 <br>
