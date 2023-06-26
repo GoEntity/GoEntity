@@ -1,6 +1,7 @@
 <div align="center">
     <h3>Diary</h3>
     06/26/2023 <br>
+    Today, I felt.. 😋 <br><br>
     Today I went to the store, bought some ramen and came back home. <br>
     And of course, I ate the ramen and it was delicious. <br>
     And I pooped and took a nap. <br>
