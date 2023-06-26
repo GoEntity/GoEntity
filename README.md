@@ -1,7 +1,7 @@
 <div align="center">
     :cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom: <br><br>
-    <a href="https://goentity.github.io/auto_git_push_for_my_blog/">click to show some love</a> <br><br>
-    <a href="https://goentity.github.io/GoEntity_Github/">click to spy on me</a>
+    <a href="https://goentity.github.io/auto_git_push_for_my_blog/">click this to show some love</a> <br><br>
+    <a href="https://goentity.github.io/GoEntity_Github/">click this to spy on me</a>
 </div>
 
 <br>
