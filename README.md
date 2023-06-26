@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="https://goentity.github.io/auto_git_push_for_my_blog/">do not click this</a> <br>
-    <a href="https://goentity.github.io/GoEntity_Github/">don't click this one either</a>
+    <a href="https://goentity.github.io/auto_git_push_for_my_blog/">click to show some love</a> <br>
+    <a href="https://goentity.github.io/GoEntity_Github/">click to spy on me</a>
 </div>
 
 <br>
