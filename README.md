@@ -1,6 +1,5 @@
 <div align="center">
-    
-![](https://komarev.com/ghpvc/?username=GoEntity&color=blueviolet)
+
 </div>
 
 <div align="center">
