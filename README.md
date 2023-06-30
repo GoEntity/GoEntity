@@ -5,7 +5,7 @@
 <div align="center">
     :cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom::cherry_blossom: <br><br>
     <a href="https://goentity.github.io/uwu">support me</a><br><br>
-    <a href="https://goentity.github.io/GoEntity_Github">spy on me</a>
+    <a href="https://goentity.github.io/u_u">spy on me</a>
 </div>
 
 <br>
