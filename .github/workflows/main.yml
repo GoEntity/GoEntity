@@ -30,4 +30,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GoEntity_Github }}
+          GITHUB_TOKEN: ${{ secrets.GOENTITY_GITHUB }}
