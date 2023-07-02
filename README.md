@@ -12,7 +12,7 @@
 
 <div align="center">
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goentity&layout=pie&theme=dracula&langs_count=99)](https://github.com/anuraghazra/github-readme-stats) <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goentity&layout=pie&theme=tokyonight&langs_count=99)](https://github.com/anuraghazra/github-readme-stats) <br>
   ![Snake animation](https://github.com/GoEntity/GoEntity/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
